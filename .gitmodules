@@ -1,0 +1,3 @@
+[submodule "Logger-env/Assets/Externals/aig.client.logger"]
+	path = Logger-env/Assets/Externals/aig.client.logger
+	url = https://github.com/azur-games/aig.client.logger.git
