@@ -1,2 +1,5 @@
 Logger-env/Library/
 Logger-env/Temp/
+Logger-env/.idea/
+Logger-env/obj/
+Logger-env/Logger-env.sln
