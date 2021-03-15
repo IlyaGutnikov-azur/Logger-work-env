@@ -87,12 +87,14 @@
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\BaseLogger.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\CompoundLogger\CompoundLogger.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\CompoundLogger\ICompoundLogger.cs" />
+    <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\CompoundLogger\LoggerInfo.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\IFormattedLogger.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\ILogger.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\Log4Net\DefaultLog4NetConfigurator.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\Log4Net\ILog4NetConfigurator.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\Log4Net\Log4NetExtensions.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\Log4Net\Log4NetLogger.cs" />
+    <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\LoggerState.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\Loggers\Unity\UnityLogger.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\MessageType.cs" />
     <Compile Include="Assets\Externals\aig.client.logger\Runtime\ObjectExtension.cs" />
